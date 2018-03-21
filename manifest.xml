@@ -4,5 +4,4 @@
     </description>
     <author>Benjamin Kisliuk</author>
     <depend package="pyyaml" />
-    <depend package="tools/config" />
 </package>
